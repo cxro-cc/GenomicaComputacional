@@ -1,0 +1,5 @@
+Sars-COV 2 es un virus de la familia Coronaviridae, de RNA de cadena sencilla positiva que está envuelto en una envoltura de glicoproteína de membrana con una proteína espicula glicosilada.
+Tiene un tamaño de 50-200nm.
+Constituida por un estodominio, con un tallo trimericoS1 y otro S2.
+El dominio S1 es el que se une al receptor de las células; y el dominio S2 se encarga de transmitir el péptido de fusión, estirando y fusionando las membranas de la célula para permitir que penetré el material genético. Algunas proteasas extracelulares se encargan de promover la fusión de este virus.
+En las células humanas la proteína que detecta al virus es la Enzima Convertidora de Angiotensina 2 provocando una cascada de señalización.

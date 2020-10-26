@@ -1,0 +1,3 @@
+La proteína espina de coronavirus en una máquina molecular mutlifuncional que lleva a cabo el proceso en que el coronavirus entra a la célula hospedera. Primero se une al receptor de la superficie celular por medio de la subunidad y luego se fusiona por la membrana del hospedero por medio de la subunidad S2.
+
+La espina contiene tres segmentos: un ectodominio, un anclaje sencillo transmembranal y una pequeña cola intracelular. El ectodominio consiste de la subunidad S1 que se encarga de la unión al receptor y la subunidad S2 para la fusión a membrana. 
