@@ -1,0 +1,25 @@
+#! python
+
+#Pregunta 1#
+
+compra =float( input ("¿De cuánto es la compra? ")) 
+	if compra > 100.0: 
+	descuento = compra * 0.10 
+	total = compra - descuento 
+	print (total) 
+	else print (compra)
+
+#Pregunta 2#
+   
+altura = float (input ("Altura: ")) 
+base = float (input ("Base: ")) 
+area = (base * altura)/2 
+dos = round (area, 2) 
+print (dos)
+
+#Pregunta 3#
+
+kg = float (input ("Indique peso en kg: ")) 
+m = float (input ("Indique altura en m: "))
+IMC = kg / m**2 
+print (IMC) 
