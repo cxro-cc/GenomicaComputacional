@@ -32,3 +32,9 @@ ERR486827_1.fasta con 136550 secuencias.
 **Respuesta 3:**
 
 # Parte III.
+
+
+# Parte IV.
+
+**Respuesta 1:**
+
