@@ -14,6 +14,9 @@
 
 **Respuesta 1:**
 
+sed -n '1~4s/^@/>/p;2~4p' ERR486827_1.fastq > ERR486827_1.fasta
+sed -n '1~4s/^@/>/p;2~4p' ERR486827_2.fastq > ERR486827_2.fasta
+
 **Respuesta 2:**
 
 **Respuesta 3:**
