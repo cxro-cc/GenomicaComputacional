@@ -1,8 +1,8 @@
 # Comandos de la Práctica 02
 ## Equipo 06
 ### Integrante 1: Carolina Caballero Cordero
-### Integrante 2: Mancilla Galván Luis Angel
-### Integrante 3: Nombre(s) Apellido(s)
+### Integrante 2: Luis Angel Mancilla Galván 
+### Integrante 3: Victor Alí Mancilla Gaytán
 
 # Parte I. 
 
@@ -89,7 +89,11 @@ fastq de [NCBI](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2527046).
 
 **Respuesta 2:**
 
-Se utilizó la tecnología de Illumina MiSeq que combina tecnología reconocida de secuenciación por síntesis. Las secuencias de .fastqc se tomaron del artículo [Comprehensive and quantitative mapping of RNA–protein interactions across a transcribed eukaryotic genome](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2527046)
+Se utilizó la tecnología de [*Illumina MiSeq*](https://www.illumina.com/content/dam/illumina-marketing/documents/products/illumina_sequencing_introduction.pdf) que combina tecnología reconocida de secuenciación por síntesis, la cual ocupa una serie de cuatro pasos:
+**Preparación de la libreria** La cual se prepara con una fragmentación aleatoria del DNA o de una muestra de cDNA, después los fragmentos son amplificados por PCR.
+**Generación de cluster** Cada fragmento es amplificado con distintos clusters para así empezar la secuenciación. **Secuenciación** Basada en un método basado en terminadores que detecta cada base y las incorpora a un molde de la cadena del DNA. **Análisis de datos** Después de obtener la secuencia se pueden obtener diferentes variaciones en el análisis como análisis con SNP o identificación de inserciones y deleciones.
+Las secuencias de .fastqc se tomaron del artículo [Comprehensive and quantitative mapping of RNA–protein interactions across a transcribed eukaryotic genome](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2527046)
+
 
 **Resepuesta 3:**
 
