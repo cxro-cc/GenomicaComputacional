@@ -40,7 +40,14 @@ ERR486827_1.fasta con 136550 secuencias.
 
 ***Saccharomyces cerevisiae***
 
-Es un hongo unicelular (levadura) del grupo de Ascomycetes. Se encuentra sobre sustratos ricos de azúcares o en los exudados y savias dulces de algunas palntas. Se utiliza industrialmente en la fabricación de pan, cerveza y vino. Se reproduce de forma asexual por gemación. Es un organismo modelo para problemáticas biológicas por su rápido crecimeinto, la dispersión de las células y el sencillo sistema de transformación de DNA. 
+Es un hongo unicelular (levadura) del grupo de Ascomycota. Se encuentra sobre sustratos ricos de azúcares o en los exudados y savias dulces de algunas palntas. Se utiliza industrialmente en la fabricación de pan, cerveza y vino. Se reproduce de forma asexual por gemación. Es un organismo modelo para problemáticas biológicas por su rápido crecimeinto, la dispersión de las células y el sencillo sistema de transformación de DNA. 
 
-![cerevisiae]
+![cerevisiae](https://github.com/cxro-cc/GenomicaComputacional/blob/main/Equipo06_p02/saccharomyces.jpeg)
+
+**Respuesta 2:**
+
+Se utilizó la tecnología de PacBio con el método de ensamble de CANU v. 1.5, esta secuenciación se llevó a cabo en 2018 por Xiao, S. y Zeng, X. [Creating a functional single-chromosome yeast](https://www.nature.com/articles/s41586-018-0382-x)
+
+
+
 
