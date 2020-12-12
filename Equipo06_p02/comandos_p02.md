@@ -38,8 +38,9 @@ ERR486827_1.fasta con 136550 secuencias.
 
 **Respuesta 1:**
 
-***Pseudomonas fluorescens***
+***Saccharomyces cerevisiae***
 
-Bacterias con forma de bastón aerobias, saprofitas que se pueden encontrar en suelo y agua. Abundan en las superficies de las raíces de plantas pero no tienen una relación simbiotica. Tiene una alta capacidad en la solubilización del fósforo y la realizan por medio de la producción de ácidos orgánicos o por medio de las fosfatasas. Además pueden producir sustancias estimuladoras del crecimiento y poseen ciertas sustancias que actúan como inhibidores de crecimiento y desarrollo en patógenos fúngicos que puedan afectar al cultivo.
-![pseudo](https://github.com/cxro-cc/GenomicaComputacional/blob/main/Equipo06_p02/parte%204.jpg)
+Es un hongo unicelular (levadura) del grupo de Ascomycetes. Se encuentra sobre sustratos ricos de azúcares o en los exudados y savias dulces de algunas palntas. Se utiliza industrialmente en la fabricación de pan, cerveza y vino. Se reproduce de forma asexual por gemación. Es un organismo modelo para problemáticas biológicas por su rápido crecimeinto, la dispersión de las células y el sencillo sistema de transformación de DNA. 
+
+![cerevisiae]
 
