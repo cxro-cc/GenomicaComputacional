@@ -37,4 +37,6 @@ ERR486827_1.fasta con 136550 secuencias.
 # Parte IV.
 
 **Respuesta 1:**
+*Pseudomonas fluorescens*
+Bacterias con forma de bastón aerobias, saprofitas que se pueden encontrar en suelo y agua. Abundan en las superficies de las raíces de plantas pero no tienen una relación simbiotica. Tiene una alta capacidad en la solubilización del fósforo y la realizan por medio de la producción de ácidos orgánicos o por medio de las fosfatasas. Además pueden producir sustancias estimuladoras del crecimiento y poseen ciertas sustancias que actúan como inhibidores de crecimiento y desarrollo en patógenos fúngicos que puedan afectar al cultivo.
 
