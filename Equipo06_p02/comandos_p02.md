@@ -46,7 +46,9 @@ Es un hongo unicelular (levadura) del grupo de Ascomycota. Se encuentra sobre su
 
 **Respuesta 2:**
 
-Se utilizó la tecnología de PacBio con el método de ensamble de CANU v. 1.5, esta secuenciación se llevó a cabo en 2018 por Xiao, S. y Zeng, X. [Creating a functional single-chromosome yeast](https://www.nature.com/articles/s41586-018-0382-x)
+Se utilizó la tecnología de Illumina MiSeq que combina tecnología reconocida de secuenciación por síntesis. Las secuencias de .fastqc se tomaron del artículo [Comprehensive and quantitative mapping of RNA–protein interactions across a transcribed eukaryotic genome](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2527046)
+
+
 
 
 
